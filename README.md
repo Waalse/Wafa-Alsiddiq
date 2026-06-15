@@ -17,6 +17,9 @@ I specialize in:
 I enjoy solving real-world business problems by combining statistical methods, data-driven decision making, and modern analytical tools.
 
 ## Technical Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
 ### Programming & Databases
 - Python
