@@ -70,5 +70,15 @@ Machine learning project predicting housing prices using property and location c
 - Cloud-based Analytics
 - Data Engineering Concepts
 
+## GitHub Stats & Activity
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Waalse&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waalse&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waalse&theme=tokyonight" />
+</p>
 
 *"Turning data into insights and insights into decisions."*
