@@ -1,8 +1,8 @@
 # Hi, I'm Wafa Alsiddiq 
 
-🎓 Statistics & Operations Research Graduate
+Statistics & Operations Research Graduate 🎓
 
-📊 Data Analyst passionate about transforming data into actionable insights through analytics, machine learning, forecasting, and visualization.
+Data Analyst passionate about transforming data into actionable insights through analytics, machine learning, forecasting, and visualization.
 
 ## About Me
 
