@@ -17,18 +17,16 @@ I specialize in:
 I enjoy solving real-world business problems by combining statistical methods, data-driven decision making, and modern analytical tools.
 
 ## Technical Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SPSS-003366?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dataiku-00B140?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AnyLogic-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudera-EE3D23?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Impala-0066CC?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" />
 </p>
 
 ### Programming & Databases
