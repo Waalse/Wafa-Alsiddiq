@@ -19,14 +19,7 @@ I enjoy solving real-world business problems by combining statistical methods, d
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github,vscode" />
 </p>
 
 ### Programming & Databases
