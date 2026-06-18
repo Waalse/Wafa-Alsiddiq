@@ -49,20 +49,6 @@ I enjoy solving real-world business problems by combining statistical methods, d
 - AnyLogic
 - Git & GitHub
 
-## Featured Projects
-
-### Drug Shortage Prediction
-Forecasting potential drug shortages using time series and machine learning models to support proactive healthcare decision-making.
-
-### Drug Risk Classification
-Developed a clustering framework to classify drugs into risk categories based on shortage history, demand, supply, alternatives, and essentiality.
-
-### Saudi GDP Forecasting
-Graduation project focused on forecasting Saudi Arabia's GDP using decomposition techniques and SARIMA models.
-
-### Real Estate Price Prediction
-Machine learning project predicting housing prices using property and location characteristics.
-
 ## Currently Learning
 
 - Advanced Machine Learning
@@ -80,5 +66,3 @@ Machine learning project predicting housing prices using property and location c
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waalse&theme=tokyonight" />
 </p>
-
-*"Turning data into insights and insights into decisions."*
